@@ -34,16 +34,16 @@ from aiogram.fsm.context import FSMContext
 import mysql.connector
 
 
-TOKEN = "7704364728:AAF2kaefczrvMtwbK2sC9PvEKGFkIt8yV3Q"#токен бота
+TOKEN = "BOT_TOKEN"#токен бота
 dp = Dispatcher()
 logging.basicConfig(level=logging.INFO)
 AUTHORIZED_USER_ID = 569360925 #ID пользователя которому доступна команда
 DB = mysql.connector.connect(
-                    host = "localhost",
-                    port = 3306,
-                    user = "root",
-                    password = "!1q2w3e4r5t6y7u8i9o0p!",
-                    database = "telegram_base")
+                    host = "",
+                    port = ,
+                    user = "",
+                    password = "",
+                    database = "")
 print(DB)
 
 

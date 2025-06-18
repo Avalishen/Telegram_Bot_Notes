@@ -1,5 +1,3 @@
-RUS
-Автор кода Avalishen
 Данный код бота для Telegram написан на версии Aiogram 3.13
 База Данных MySQL
 Бот представляет собой что-то вроде блокнота в котором есть разделение на user_id
@@ -8,8 +6,7 @@ RUS
 2) Ссылка в виде гиперссылки команда add_links и попросить бота выдать информацию обратно командой get_links
 3) Код add_code который будет помечаться в Telegram как код и попросить бота выдать информацию обратно командой get_code
 
-ENG
-Code author Avalishen
+
 This bot code for Telegram is written on Aiogram version 3.13
 MySQL database
 The bot is something like a notepad in which there is a division by user_id
